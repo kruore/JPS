@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\epsel\Documents\GitHub\JPS\JPS\JPS\JPS.h(15,20): warning C4244: '초기화 중': 'double'에서 'const long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\epsel\Documents\GitHub\JPS\JPS\JPS\JPS.h(66,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\epsel\Documents\GitHub\JPS\JPS\JPS\JPS.h(135,31): warning C4244: '=': 'float'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\epsel\Documents\GitHub\JPS\JPS\JPS\JPS.h(178,23): warning C4244: '초기화 중': 'float'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\epsel\Documents\GitHub\JPS\JPS\JPS\JPS.h(182,31): warning C4244: '=': 'float'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+  JPS.vcxproj -> C:\Users\epsel\Documents\GitHub\JPS\JPS\x64\Debug\JPS.exe
